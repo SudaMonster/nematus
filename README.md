@@ -277,3 +277,5 @@ please refer to the Nematus paper for a description of implementation difference
 ACKNOWLEDGMENTS
 ---------------
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreements 645452 (QT21), 644333 (TraMOOC), 644402 (HimL) and 688139 (SUMMA).
+
+Try to use pre-trained word embedding for low resource NMT
